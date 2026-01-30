@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESSING+FILE:+SRDvenom;DECRYPTING+DATA...;WELCOME,+SUKHDEEP+DESHMUKH" alt="Typing SVG Header" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESSING+FILE:+SRDvenom;DECRYPTING+DATA...;WELCOME,+I'M+SUKHDEEP+DESHMUKH" alt="Typing SVG Header" /></p>
 
 ---
 
