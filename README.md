@@ -1,5 +1,9 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INIT_SESSION:+Sukhdeep+Deshmukh;STATUS:+Building+in+the+Cloud;HOBBY:+Sketching+the+Unknown;GOAL:+Moving+Beyond+the+Rat-Race" alt="Terminal Header" /></p>
-
+---
+### 🏆 Hall of Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SRDvenom&theme=dracula&no-bg=true&column=4" alt="Trophies" />
+</p>
 ---
 
 ### 📂 [SYSTEM_OVERRIDE] : Choose Your Data Stream
