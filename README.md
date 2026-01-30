@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sukhdeep Deshmukh
+# 👋 Hello, I'm Sukhdeep Deshmukh 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Cloud%20Computing-blueviolet?style=for-the-badge&logo=icloud&logoColor=white" />
@@ -20,12 +20,41 @@ I am a **Computer Science Engineer** at *Fr. Conceicao Rodrigues College of Engi
 
 ### 🛠️ My Tech Toolbox
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,github&theme=light" />
 </p>
 
 - **Languages:** C/C++, Python, Java, JavaScript
-- **Web:** HTML5, CSS3
+- **Frameworks:** React.js, HTML5, CSS3
 - **Tools:** Git, GitHub, IBM Cloud
+
+---
+
+### 🖼️ Digital Sketchbook (Featured Projects)
+*A collection of web experiments and logic-based builds.*
+
+<details>
+  <summary><b>🚀 Modern Web Application (React + Python)</b></summary>
+  <br/>
+  <blockquote>
+    A clean, functional app exploring component-based UI and backend logic. 
+    <br/>
+    <b>Key Features:</b> Responsive Design | State Management | API Integration
+    <br/>
+    <a href="https://github.com/SRDvenom?tab=repositories">View Code</a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>✨ Interactive Frontend Design (JS + CSS)</b></summary>
+  <br/>
+  <blockquote>
+    Focusing on the "Art of the Web." Smooth animations and intuitive UX.
+    <br/>
+    <b>Key Features:</b> DOM Manipulation | Custom CSS Keyframes
+    <br/>
+    <a href="https://github.com/SRDvenom?tab=repositories">View Code</a>
+  </blockquote>
+</details>
 
 ---
 
@@ -39,8 +68,8 @@ When I'm not debugging or configuring servers, you'll find me:
 
 ### 📊 GitHub Stats & Vibe
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SRDvenom]&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SRDvenom]&layout=compact&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRDvenom&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRDvenom&layout=compact&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff" />
 </p>
 
 ---
@@ -54,17 +83,3 @@ I love collaborating on projects that push the boundaries. Whether you want to t
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" alt="Handshake" width="50" height="50" />
 </p>
-<!--
-**SRDvenom/SRDvenom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
