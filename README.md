@@ -80,5 +80,5 @@ I love collaborating on projects that push the boundaries. Whether you want to t
 
 ---
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="60" height="60">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" width="60" height="60" />
 </p>
