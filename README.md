@@ -1,67 +1,75 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=INIT_SESSION:+Sukhdeep+Deshmukh;STATUS:+Building+in+the+Cloud;HOBBY:+Sketching+the+Unknown;GOAL:+Moving+Beyond+the+Rat-Race" alt="Terminal Header" /></p>
----
-### 🏆 Hall of Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SRDvenom&theme=dracula&no-bg=true&column=4" alt="Trophies" />
-</p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=ACCESSING+FILE:+SRDvenom;DECRYPTING+DATA...;WELCOME,+SUKHDEEP+DESHMUKH" alt="Typing SVG Header" /></p>
+
 ---
 
-### 📂 [SYSTEM_OVERRIDE] : Choose Your Data Stream
-*Click on a folder below to interact with my profile.*
+### 👤 User Profile: Sukhdeep Deshmukh
+> **"Engineering the Cloud, Sketching the Soul."**
+
+| **Attribute** | **Data Point** |
+| :--- | :--- |
+| **Current Designation** | B.Tech Computer Science student at Fr. CRCE |
+| **Specialization** | Cloud Architectures & Scaling |
+| **Certification** | IBM SkillsBuild: Cloud Fundamentals |
+| **Secondary Class** | Fine Arts & Sketching |
+| **Current Objective** | Mastering **Go** language & Cloud-Native Tools |
+
+---
+
+### 📂 SYSTEM_DIRECTORIES (Click to Expand)
+*Interact with the folders below to view classified information.*
 
 <details>
-<summary><b>🛠️ UNLOCK TECH ARSENAL</b></summary>
+<summary><b>🛠️ [DIR] TECH_ARSENAL</b></summary>
 <br />
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,github,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,html,css,github,gcp&theme=dark" />
 </p>
-<blockquote>"From the logic of C to the scale of the Cloud, I build with purpose."</blockquote>
+- **Core:** C/C++, Python, Java, JavaScript
+- **Web:** React.js, HTML5, CSS3
+- **Focus:** Cloud Scaling (Moving beyond the "Rat-Race")
 </details>
 
 <details>
-<summary><b>🎨 ACCESS CREATIVE GALLERY</b></summary>
+<summary><b>🎨 [DIR] ART_GALLERY</b></summary>
 <br />
 <blockquote>
-  <b>Current Focus:</b> Hyper-realistic Sketching & Digital Art <br />
-  <b>Status:</b> Sketching is my meditation. If it stresses you out, you're doing it wrong! 😜
+  "Sketching is my meditation. If a pencil stresses you out, we aren't the same species! 😜"
 </blockquote>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="40" />
-</p>
+- **Specialty:** Drawing & Hyper-realistic Sketching
+- **Philosophy:** Creating aesthetic visual experiences in both code and graphite
 </details>
 
 <details>
-<summary><b>🏏 VIEW CRICKET STATS (INTERNAL LOGS)</b></summary>
+<summary><b>🏏 [DIR] CRICKET_LOGS</b></summary>
 <br />
-<blockquote>
-  I don't just watch the game; I track the data. Cricket is 50% skill and 50% statistics.
-</blockquote>
+- **Role:** Player, Viewer, and Data Tracker
+- **Intel:** I live for the match stats and the strategy behind the game
+</details>
+
+<details>
+<summary><b>📚 [DIR] INTEL_FEED (READING)</b></summary>
+<br />
+- **Genre Focus:** Thrillers, Sci-Fi, and Psychological novels
+- **Current File:** *Dark Matter* by Blake Crouch
+- **Note:** Real novels only; no textbooks allowed in this sector! 👾
 </details>
 
 ---
 
-### 📊 SRDvenom Character Matrix
-| Attribute | Level | Progress |
+### 📊 Character Attributes (Level Status)
+| Attribute | Level | Visual Matrix |
 | :--- | :--- | :--- |
-| **Cloud Architect (IBM)** | **75%** | ![Cloud](https://geps.dev/progress/75?color=00FF41) |
-| **DSA Mastery** | **80%** | ![DSA](https://geps.dev/progress/80?color=00FF41) |
-| **Artistic Precision** | **95%** | ![Art](https://geps.dev/progress/95?color=00FF41) |
+| **Logic & DSA** | **Level 80** | ![DSA](https://geps.dev/progress/80?color=00FF41) |
+| **Cloud Design** | **Level 75** | ![Cloud](https://geps.dev/progress/75?color=00FF41) |
+| **Artistic Precision** | **Level 95** | ![Art](https://geps.dev/progress/95?color=00FF41) |
+| **Cricket Intel** | **Level 90** | ![Cricket](https://geps.dev/progress/90?color=00FF41) |
 
 ---
 
-### 🚀 The Mission
-I am a **Computer Science Engineering** student at *Fr. Conceicao Rodrigues College of Engineering*. I am currently deep-diving into **Cloud Architectures** to find a path that is different from the standard software engineering "rat-race".
-
-- ☁️ **Mission:** Mastering Cloud scaling and infrastructure.
-- 🐹 **Side Quest:** Learning the **Go** language.
-- 📚 **Intel:** Fueled by **Sci-Fi** and **Psychological Thrillers** (e.g., Blake Crouch's *Dark Matter*).
-
----
-
-### 🤝 Establish Connection
+### 🤝 Connect with SRDvenom
 ✨ [**LinkedIn**](https://www.linkedin.com/in/sukhdeep-deshmukh-0baa00312) | 📸 [**Instagram**](https://www.instagram.com/sukh.deep_deshmukh) | 📺 [**YouTube**](https://youtube.com/@sukhdeeparts001) | 📧 [**Email**](mailto:sukhdeepdeshmukh@gmail.com)
 
 ---
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SRDvenom&label=PROFILE+VIEWS&color=00FF41&style=flat-square" alt="Views" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="60" height="60">
 </p>
