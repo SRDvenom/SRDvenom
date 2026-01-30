@@ -68,10 +68,9 @@ When I'm not debugging or configuring servers, you'll find me:
 
 ### 📊 GitHub Stats & Vibe
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRDvenom&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRDvenom&layout=compact&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRDvenom&show_icons=true&theme=radical&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRDvenom&layout=compact&theme=radical&hide_border=false" />
 </p>
-
 ---
 
 ### 🤝 Let's Connect!
@@ -81,5 +80,5 @@ I love collaborating on projects that push the boundaries. Whether you want to t
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" alt="Handshake" width="50" height="50" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="60" height="60">
 </p>
