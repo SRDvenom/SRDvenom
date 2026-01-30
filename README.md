@@ -66,8 +66,13 @@
 
 ---
 
-### 🤝 Connect with SRDvenom
-✨ [**LinkedIn**](https://www.linkedin.com/in/sukhdeep-deshmukh-0baa00312) | 📸 [**Instagram**](https://www.instagram.com/sukh.deep_deshmukh) | 📺 [**YouTube**](https://youtube.com/@sukhdeeparts001) | 📧 [**Email**](mailto:sukhdeepdeshmukh@gmail.com)
+### 🤝 Establish Connection
+<p align="left">
+<a href="https://www.linkedin.com/in/sukhdeep-deshmukh-0baa00312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@sukhdeeparts001" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/sukh.deep_deshmukh" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:sukhdeepdeshmukh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 <p align="center">
