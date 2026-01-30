@@ -39,8 +39,8 @@ When I'm not debugging or configuring servers, you'll find me:
 
 ### 📊 GitHub Stats & Vibe
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SRDvenom]&show_icons=true&theme=transparent&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SRDvenom]&layout=compact&theme=transparent&hide_border=true&title_color=61dafb&text_color=ffffff" />
 </p>
 
 ---
