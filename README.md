@@ -76,9 +76,7 @@
 
 ---
 <!-- START OF SNAKE ANIMATION -->
-<div align="center">
-  <img src="https://github.com" alt="Dark Mode Snake Game" width="100%" />
-</div>
+
 <!-- END OF SNAKE ANIMATION -->
 
 ---
